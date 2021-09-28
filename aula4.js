@@ -1,4 +1,4 @@
-/* Terça-feira,28/09/2021{à amanhã} das 08:30:50 as h+|-*/
+/* Terça-feira,28/09/2021{à amanhã} das 08:30:50 as 10:20:00 h+|-*/
 var listafilmes = ["Yesterday", "A chegada", "Escola de Rock"];
 // elemento            1     ,       2      ,        3
 // indice               0    ,       1      ,        2
