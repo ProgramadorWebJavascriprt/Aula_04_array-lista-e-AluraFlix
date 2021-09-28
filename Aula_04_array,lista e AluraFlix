@@ -1,9 +1,35 @@
-<div class="container">
-  <h1 class="page-title">
-    Aluraflix
-  </h1>
-  <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo" alt="">
-</div>
-<a href="https://alura.com.br/" target="_blank">
-  <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
-</a>
+
+ <html>
+ <head>
+   <title>aula04_array,lista e Aluraflix</title>
+   <meta charset="utf-8">
+   <script> aula02.js </script>
+ </head>
+   <header>
+    <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
+    <div class="menu">
+     <ul>
+   <li><a href="https://www.youtube.com/c/Alura">Youtube Alura</a> </li>
+   <li><a href="https://www.facebook.com/AluraCursosOnline">facebook Alura</a></li>
+   <li><a href="https://www.instagram.com/aluraonline/">Instragam Alura</a> </li> 
+  </ul>
+    </div>
+  </header>
+  <body>
+    <script src="aula4.js"></script>
+  </body>
+  <footer>
+    <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
+  <div class="rodape">
+    <div class="rodape">
+          <ul><li><a href="https://www.facebook.com/">facebook</a></li>
+          <li><a href="https://www.youtube.com/">you tube</a></li>
+          <li><a href="https://web.whatsapp.com/">whats</a></li>
+          <li><a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox">e-mail</a></li>
+      </ul>
+   </div>
+  <div class="rodape">
+   <center>Andre Luis Kunert- Setembro/2021 -Imersão Dev Alura </center> 
+  </div>
+  </footer>
+ </html>
